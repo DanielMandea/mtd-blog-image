@@ -1,1 +1,3 @@
-# mtd-blog-image
+# MTDBlogImageRequest
+
+A description of this package.
